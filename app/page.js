@@ -63,7 +63,7 @@ const Receipt = () => {
           <div className="mt-6 text-sm border-t border-purple-400 pt-4">
             <p><strong>Terms & Conditions:</strong></p>
             <ul className="list-disc ml-6">
-              <li>No refunds, exchanges, or replacements – you're stuck with me now.</li>
+              <li>No refunds, exchanges, or replacements – you&apos;re stuck with me now.</li>
               <li>Failure to appreciate this product may result in lifelong sadness.</li>
               <li>Product is highly exclusive and not available for resale.</li>
             </ul>
